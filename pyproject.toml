@@ -1,0 +1,14 @@
+[project]
+name = "youtube-summerizer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "loguru>=0.7.3",
+    "onnxruntime>=1.21.1",
+    "pydantic>=2.11.7",
+    "pydantic-ai>=0.4.11",
+    "youtube-transcript-api>=1.2.1",
+]
