@@ -21,7 +21,7 @@ A powerful tool that uses AI to extract and summarize transcripts from YouTube v
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+gh repo clone abhilashpanda04/Youtube_Note_Taker
 cd youtube-summerizer
 ```
 
@@ -69,6 +69,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📬 Contact
 
-Your Name - [Your Email]
+Your Name - abhilashpanda04@gmail.com
 
-Project Link: [Repository URL]
+Project Link: abhilashpanda04/Youtube_Note_Taker
