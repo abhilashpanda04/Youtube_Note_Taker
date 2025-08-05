@@ -4,7 +4,7 @@ import sys
 class Prompt:
    
     def __init__(self, 
-                user_prompt_path:str= "src/prompts/summarizer.txt",
+                user_prompt_path:str= "backend/prompts/summarizer.txt",
                 system_prompt_path: str = None):
         final_user_prompt_path = user_prompt_path
         self.user_prompt = self.load_prompt(final_user_prompt_path)
